@@ -1,0 +1,22 @@
+uuid: dccc1008-7d2e-419b-8952-6735a5d3b639
+langcode: sv
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - seven
+_core:
+  default_config_hash: WWu2OQswgCztl9OeXjD1stexIEMZsSgPMYIdC-JHx9c
+id: seven_breadcrumbs
+theme: seven
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Länkstigar
+  provider: system
+  label_display: '0'
+visibility: {  }

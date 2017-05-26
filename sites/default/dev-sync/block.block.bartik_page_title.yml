@@ -1,0 +1,20 @@
+uuid: 4b3882a2-34a6-47ba-8629-e0aac2897384
+langcode: sv
+status: true
+dependencies:
+  theme:
+    - bartik
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: bartik_page_title
+theme: bartik
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: Sidtitel
+  provider: core
+  label_display: '0'
+visibility: {  }

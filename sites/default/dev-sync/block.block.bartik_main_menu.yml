@@ -1,0 +1,26 @@
+uuid: d5e9c3a6-202a-4a53-8423-79fb9e45da5d
+langcode: sv
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - bartik
+_core:
+  default_config_hash: rx9IrdDv7Ldc4kpalZAxdhIPZfYIeOMh1N-qKoQZwHo
+id: bartik_main_menu
+theme: bartik
+region: primary_menu
+weight: 0
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: Huvudmeny
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+visibility: {  }

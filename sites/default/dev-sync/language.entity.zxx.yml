@@ -1,0 +1,11 @@
+uuid: 27fbb10b-2d20-4d0d-95cd-621c7a1ea9c6
+langcode: sv
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 35CefWbnzaiytcg3acexxz_GTvuwIjYd_ZTcmmR-tXA
+id: zxx
+label: 'Ej tillämpligt'
+direction: ltr
+weight: 3
+locked: true

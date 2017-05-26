@@ -1,0 +1,12 @@
+uuid: 09de2606-8af0-4ebc-a32d-6e8293a7ce79
+langcode: sv
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: 6GCOQ-jP2RbdbHA5YWQ6bT8CfGbqrBYKOSC_XY4E3ZM
+id: node.search_result
+label: 'Sökresultat framhäver inmatning'
+targetEntityType: node
+cache: true

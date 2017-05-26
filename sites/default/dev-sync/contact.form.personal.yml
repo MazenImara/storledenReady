@@ -1,0 +1,13 @@
+uuid: 7a7fa0a5-0346-4671-b444-bc933269fb99
+langcode: sv
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jonvgt3CkUM2eMLTFwWfHileWWDC4YtXCuIlCahTk_I
+id: personal
+label: 'Personligt kontaktformulär'
+recipients: {  }
+reply: ''
+weight: 0
+message: 'Ditt meddelande har skickats.'
+redirect: ''

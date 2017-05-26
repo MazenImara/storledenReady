@@ -1,0 +1,13 @@
+uuid: 7736a325-1fb7-47a6-b061-998af5ae23dd
+langcode: sv
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: Zx0jD1Klh5tZaGJy8uOeR_2MCu9FDM4xg7TaUJUEbkI
+id: node_delete_action
+label: 'Radera innehåll'
+type: node
+plugin: node_delete_action
+configuration: {  }
